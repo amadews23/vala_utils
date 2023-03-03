@@ -17,19 +17,26 @@ Mes 3 del anyo 2023
   print(" LU  MA  MI  JU  VI  SA  DO \n");
 
   for (int i=1 ; i < fecha0.get_day_of_week(); i++) {
+  
         print(" %i ",fecha0.add_days (-(fecha0.get_day_of_week()-i)).get_day_of_month());
     }
 
   for (int i=0 ; i < 43-fecha0.get_day_of_week(); i++) {
-        if ( fecha0.add_days (i).get_day_of_month() < 10 ) {
-            print (" 0%i ",fecha0.add_days (i).get_day_of_month()); 
+  
+   if ( fecha0.add_days (i).get_day_of_month() < 10 ) {
+        
+        print (" 0%i ",fecha0.add_days (i).get_day_of_month()); 
+        
         } else {
-            print (" %i ",fecha0.add_days (i).get_day_of_month()); 
+        
+        print (" %i ",fecha0.add_days (i).get_day_of_month());         
         }
+        
         if (fecha0.add_days (i).get_day_of_week() == 7) {
             print("\n");
         }   
     }
+    
     print("\n");
 
     return 0;
