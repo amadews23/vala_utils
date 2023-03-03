@@ -1,6 +1,6 @@
 /* -*- Mode: C; indent-tabs-mode: t; c-basic-offset: 4; tab-width: 4 -*-  */
 /*
- * main.c
+ * print_calendar.vala
  * Copyright (C) 2023 Bartolome Vich Lozano <web@tovilo.es>
  * 
  * fichaClientes is free software: you can redistribute it and/or modify it
