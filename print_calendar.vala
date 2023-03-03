@@ -1,7 +1,7 @@
 /* -*- Mode: C; indent-tabs-mode: t; c-basic-offset: 4; tab-width: 4 -*-  */
 /*
  * main.c
- * Copyright (C) 2019 Bartolome Vich Lozano <web@tovilo.es>
+ * Copyright (C) 2023 Bartolome Vich Lozano <web@tovilo.es>
  * 
  * fichaClientes is free software: you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
