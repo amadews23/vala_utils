@@ -1,2 +1,3 @@
 # vala_utils
-## print_calendar.vala prints a calendar
+## print_calendar.vala :
+### prints a calendar
