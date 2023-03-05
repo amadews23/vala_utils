@@ -1,4 +1,3 @@
-/* -*- Mode: C; indent-tabs-mode: t; c-basic-offset: 4; tab-width: 4 -*-  */
 /*
  * print_calendar.vala
  * Copyright (C) 2023 Bartolome Vich Lozano <web@tovilo.es>
